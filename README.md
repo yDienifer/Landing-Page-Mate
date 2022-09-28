@@ -24,5 +24,5 @@ O projeto ainda está em evolução, e conta com alguns futuros upgrades, como:
 
 Para acessa-lá, siga estas etapas:
 - Entre no seu navegador;
-- Clique neste [link](https://gist.github.com/search?q=+modelo+readme&ref=searchresults);
+- Clique neste [link](file:///home/dienifersiqueira/Landing-Page/index.html);
 - Se divirta! =)
