@@ -1,0 +1,41 @@
+/* NavBar*/
+navbar{
+    float: left;
+    margin-left: -2%;
+    margin-top: 3%;
+    transform: scale(1.2);
+}
+
+navbar li{
+    display: block;
+    float: left;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+navbar a{
+    text-decoration: none;
+    font-family: 'Amsi';
+    color: #18232c;
+    letter-spacing: 2px;
+    padding: 10px;
+    height: 0px;
+    margin-left: 12px;
+}
+
+navbar ul li a:hover
+{
+    border: 2px solid #18232c;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.activated
+{
+    border: 2px solid #18232c;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
